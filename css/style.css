@@ -1296,6 +1296,10 @@ h3 { font-size: clamp(1.2rem, 2.5vw, 1.8rem); }
     min-height: 88vh;
     padding-bottom: 56px;
   }
+  .page-hero .container {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
   .page-hero-bg { opacity: 0.45; }
   .page-hero-bg::after {
     background:
